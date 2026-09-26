@@ -1,0 +1,49 @@
+FOTOS QUE VAN EN ESTA CARPETA
+=============================
+
+Las que están ahora son de prueba: bloques de color para ver la
+estructura. Reemplazalas por las reales con estos nombres exactos.
+
+  hero.jpg            La foto principal. Horizontal, 1800 px de ancho.
+                      Momento y emoción, no una pareja posando.
+
+  historia-1-01.jpg   VERTICAL  (800 x 1200)  preparativos
+  historia-1-02.jpg   horizontal (1200 x 800) ceremonia
+  historia-1-03.jpg   horizontal (1200 x 800) retrato / salida
+  historia-1-04.jpg   horizontal (1200 x 800) brindis
+  historia-1-05.jpg   horizontal (1200 x 800) fiesta
+
+  historia-2-01.jpg   VERTICAL  (800 x 1200)  entrada de la novia
+  historia-2-02.jpg   horizontal (1200 x 800) preparativos
+  historia-2-03.jpg   horizontal (1200 x 800) ceremonia
+  historia-2-04.jpg   horizontal (1200 x 800) familia
+  historia-2-05.jpg   horizontal (1200 x 800) fiesta
+
+  preboda.jpg         VERTICAL (900 x 1200). De una sesión de preboda.
+  nosotros.jpg        VERTICAL (1000 x 1250). Lilen y Gabriel juntos.
+  logo.png            El ojo con alas, fondo transparente.
+  og-cover.jpg        1200 x 630. La que se ve al compartir el link.
+
+IMPORTANTE: LA PRIMERA FOTO DE CADA HISTORIA ES VERTICAL
+--------------------------------------------------------
+La grilla está armada así: una vertical alta a la izquierda y cuatro
+horizontales al lado. Si ponés una horizontal en el lugar de la
+vertical, se recorta fea. Respetá las proporciones de la lista.
+
+ANTES DE SUBIRLAS
+-----------------
+1. Redimensionar: ninguna a más de 1800 px de ancho.
+2. Convertir a WebP si podés (pesa 30% menos que JPG).
+3. Comprimir: ninguna por encima de 250 KB. El hero, hasta 400 KB.
+4. Objetivo total de la página: menos de 3 MB.
+
+   Herramienta gratis para los tres pasos: https://squoosh.app
+
+5. Renombrar con nombres descriptivos si agregás fotos nuevas:
+   casamiento-estancia-cordoba-01.jpg, no IMG_4471.jpg.
+   Google Imágenes es una fuente real de consultas en este rubro.
+
+PERMISOS
+--------
+Antes de publicar fotos de bodas reales, confirmar que las parejas
+retratadas dieron su consentimiento.
